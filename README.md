@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div align="center"><a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=灰色地带;I'm+Heart-Yang+Welcome+!&center=true&size=27"> </a> </div>
+<div align="center"><a href=“kaing.top"> <img src="https://readme-typing-svg.herokuapp.com/?lines=灰色地带;Kai or YuanJie&center=true&size=27"> </a> </div>
 <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=YuanJieSaMa" /> </div>
 
 
