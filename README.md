@@ -1,4 +1,4 @@
-### Hi there 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=808080&random=false&width=435&lines=%E5%B0%8F%E5%85%83%E6%AC%A2%E8%BF%8E%E6%82%A8" alt="Typing SVG" /></a>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai&quote=灰色地带&author=Kai">
 
