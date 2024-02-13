@@ -2,7 +2,6 @@
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai&quote=灰色地带&author=Kai">
 
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=YuanJieSaMa" /> </div>
 
 
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=YuanJieSaMa&theme=xcode" /> </div>
