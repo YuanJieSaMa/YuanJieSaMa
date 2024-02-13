@@ -3,8 +3,6 @@
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai&quote=灰色地带&author=Kai">
 
 
-
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=YuanJieSaMa&theme=xcode" /> </div>
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YuanJieSaMa" /> </div>
 
 <p align="center"> <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/start.gif?raw=true">
